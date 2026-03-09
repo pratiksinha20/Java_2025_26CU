@@ -1,4 +1,4 @@
-package CU.Practice;
+package CU.Practice2;
 import java.util.*;
 
 public class Exception {

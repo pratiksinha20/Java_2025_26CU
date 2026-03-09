@@ -1,4 +1,4 @@
-package CU.Practice.LabCheckoutSystem;
+package CU.Practice2.LabCheckoutSystem;
 
 public class CheckoutRequest {
 

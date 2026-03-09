@@ -1,4 +1,4 @@
-package CU.Practice;
+package CU.Practice2;
 
 public class MultiTryCatch {
     public static void main (String[] args)
